@@ -1,5 +1,6 @@
 # OpenSwitch
 OpenSwitch FPV Racing Frame 
+
 Carbon Parts (1mm chamfer Suggested)
 
   4x 5mm  LiteSwitch_Arm6_Rev7.dxf    (Slightly undersized for some cutters) 
