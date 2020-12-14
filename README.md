@@ -7,13 +7,13 @@ Carbon Parts (1mm chamfer Suggested)
   
   4x 5mm  LiteSwitch_Arm6_Rev6.dxf    
   
-  1x 2mm  LiteSwitch_Bottom Plate_Rev3.dxf   
+  1x 2mm  LiteSwitch_Bottom_Plate_Rev3.dxf   
   
-  1x 2mm  LiteSwitch_Top Plate_Rev3.dxf      
+  1x 2mm  LiteSwitch_Top_Plate_Rev3.dxf      
   
-  1x 2mm  LiteSwitch_Brace Plate_Rev3.dxf 
+  1x 2mm  LiteSwitch_Arm_Plate_Rev3.dxf 
   
-  1x 2mm  LiteSwitch_Mid Plate_Rev3.dxf 
+  1x 2mm  LiteSwitch_Mid_Plate_Rev3.dxf 
   
   Qty 10 - 3mm Press nuts 
   
